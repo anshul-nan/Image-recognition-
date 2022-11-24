@@ -1,0 +1,8 @@
+body{
+    background-image: linear-gradient( green 21%, lightgreen 34%, yellow 50%, lightblue 80%, indigo 100% );
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
